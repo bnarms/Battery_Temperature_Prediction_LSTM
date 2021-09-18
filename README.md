@@ -1,5 +1,7 @@
 # Battery_Temperature_Prediction_LSTM  
-Multivariate time series prediction of temperature based on Vol(mV), Current(mA),	Capacit(mAh), Rate of temp change(C/s) and Temperature(C) using a Recurrent Neural Network.
+Multivariate time series prediction of temperature of a 18650 cell.  
+
+Prediction based on Voltage(mV), Current(mA),	Capacity(mAh), Rate of temp change(C/s) and Temperature(C) using a Recurrent Neural Network.
 
 
 REFERENCES:  
